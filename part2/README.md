@@ -1,4 +1,4 @@
-# instructment
+# instruction
 ```$xslt
 docker-machine start default
 docker-machine ip
